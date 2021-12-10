@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300;400&display=swap');
+
+* {
+    font-family: 'Nunito', sans-serif;
+}
+
+body{
+    background-color: #FEE440;
+}
+.container {
+    padding: 16px;
+}
+.full-width {
+    width: 100%;
+}
+
+#searchButton{
+    font-weight: 700;
+    color: white;
+    background-color: #FF0000;
+}
+
+.button-detail{
+    color: white;
+    background-color: #FF0000;
+}
